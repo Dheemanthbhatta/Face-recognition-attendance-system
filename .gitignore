@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+dataset/
+attendance_images/
+student_images/
